@@ -205,7 +205,6 @@ def mainProgram():
         # if d is a negative number we add phi to it
         if d < 0:
             d+= phi
-            print "was negative \n"
         print "d = ", d, "\n"
 
     #Exit
