@@ -11,6 +11,6 @@ Run the program with (d) and put in the recorded keys that YOU generated.
 
 #Usuage
 
-'''
+```
 python generate.py
-'''
+```
