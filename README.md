@@ -1,5 +1,6 @@
-
-#Description
+#RSA-Generate
+[![Build Status](https://travis-ci.org/PeterL328/RSA-generate.svg?branch=master)](https://travis-ci.org/PeterL328/RSA-generate)
+##Description
 
 This is a python script that helps you encrypt, decrypt and generate RSA keys.
 To test this program, you may first generate a key with (g), then run the program with (e) to encrypt some text and (d) to decrypt that text.
@@ -9,10 +10,11 @@ program with (g) to generate key values and record them and write them in google
 Run the program with (d) and put in the recorded keys that YOU generated.
 
 
-#Usage
+##Usage
 
 ```
 git clone https://github.com/PeterL328/RSA-generate.git
 cd RSA-generate
 python generate.py
 ```
+
