@@ -2,7 +2,7 @@
 # Code: ECE 103 optional assignment for lazy people
 # Description: Extra assignment
 #
-# Built for Python 2.7.6 (Any python 2 should work)
+# Built for Python 2.7.6 (Works on Python 2.6 and 2.7)
 # Date: March 12, 2016
 #
 # Programmer: Peter Leng
