@@ -9,7 +9,7 @@ program with (g) to generate key values and record them and write them in google
 Run the program with (d) and put in the recorded keys that YOU generated.
 
 
-#Usuage
+#Usage
 
 ```
 python generate.py
