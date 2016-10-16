@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # =======================================================================================================
 # Code: ECE 103 optional assignment for lazy people
 # Description: Extra assignment

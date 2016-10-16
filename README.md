@@ -15,6 +15,6 @@ Run the program with (d) and put in the recorded keys that YOU generated.
 ```
 git clone https://github.com/PeterL328/RSA-generate.git
 cd RSA-generate
-python generate.py
+./generate.py
 ```
 
